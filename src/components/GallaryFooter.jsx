@@ -1,3 +1,4 @@
+import './GallaryFooter.css';
 export default function(){
   return(
     <footer className='footer-content'>
